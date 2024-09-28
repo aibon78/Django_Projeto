@@ -1,1 +1,2 @@
-Projeto feito para fins academicos
+Projeto feito para fins academicos para Alura
+
